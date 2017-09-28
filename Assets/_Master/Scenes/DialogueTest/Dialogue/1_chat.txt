@@ -1,0 +1,6 @@
+Nice to meet you!
+My name is newNPC.
+I'm here to test your interaction capabilities.
+This line of dialogue tests overflow within dialogue boxes. Testing testing testing testing testing!
+
+Goodbye now.
